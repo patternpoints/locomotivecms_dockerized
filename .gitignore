@@ -22,5 +22,6 @@
 
 # Ignore master key for decrypting credentials and more.
 /config/master.key
-/public/sites/*
-/public/uploaded_asssets/*
+/public/sites/
+/public/uploaded_assets/
+.DS_Store
